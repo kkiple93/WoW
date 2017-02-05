@@ -1,5 +1,5 @@
 __author__ = 'Kyle'
-from WoW import RaiderStats, MythicsRan
+from WoW.src import MythicsRan, RaiderStats
 
 playerList = []
 playerObject = {}
